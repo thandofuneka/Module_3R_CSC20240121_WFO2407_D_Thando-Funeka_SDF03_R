@@ -1,4 +1,4 @@
-# [SDF01] Project: CS Cat HTML Portfolio
+# [SDF03] Project: CS Cat HTML Portfolio
 
 Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
 
@@ -22,7 +22,7 @@ You have everything you need to start your project using the CodePen starter pro
 - **[Here is a short video](https://youtu.be/7JKLWHWeybQ?rel=0)** showing you the HTML Elements used and what your final project should look like. 
 - For more references images and project assets, [check out the Project files on GitHub]([sdf-student-projects/01_html_foundations at main · CodeSpace-Academy/sdf-student-projects (github.com)](https://github.com/CodeSpace-Academy/sdf-student-projects/tree/main/01_html_foundations))
 -  Follow along with this Step by Step video of how to get setup for the Project and how to submit on the LMS with your CodePen Link.
-- **Starter Code on CodePen:** [[SDF01] CodeSpace Cat's Portfolio_student_number_coach_name (codepen.io)](https://codepen.io/codespace-academy/pen/jOJwdmO)
+- **Starter Code on CodePen:** [[SDF03] CodeSpace Cat's Portfolio_student_number_coach_name (codepen.io)](https://codepen.io/codespace-academy/pen/jOJwdmO)
 
 **HOW to submit your project**
 
