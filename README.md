@@ -20,7 +20,7 @@ Approach it with confidence and creativity, you've got this! While you'll encoun
 You have everything you need to start your project using the CodePen starter project. This CodePen contains the boilerplate code and the project images.
 
 - **[Here is a short video](https://youtu.be/7JKLWHWeybQ?rel=0)** showing you the HTML Elements used and what your final project should look like. 
-- For more references images and project assets, [check out the Project files on GitHub]([sdf-student-projects/01_html_foundations at main · CodeSpace-Academy/sdf-student-projects (github.com)](https://github.com/CodeSpace-Academy/sdf-student-projects/tree/main/01_html_foundations))
+- For more references images and project assets, [check out the Project files on GitHub](https://github.com/CodeSpace-Academy/SDF03_Reference-Files/tree/main/reference%20images).
 -  Follow along with this Step by Step video of how to get setup for the Project and how to submit on the LMS with your CodePen Link.
 - **Starter Code on CodePen:** [[SDF03] CodeSpace Cat's Portfolio_student_number_coach_name (codepen.io)](https://codepen.io/codespace-academy/pen/jOJwdmO)
 
